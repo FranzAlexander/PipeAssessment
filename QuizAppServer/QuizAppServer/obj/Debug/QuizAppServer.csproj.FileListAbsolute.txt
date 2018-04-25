@@ -1,0 +1,15 @@
+E:\Tafe Assessments\PipeAssessment\QuizAppServer\QuizAppServer\bin\Debug\QuizAppServer.exe.config
+E:\Tafe Assessments\PipeAssessment\QuizAppServer\QuizAppServer\bin\Debug\QuizAppServer.exe
+E:\Tafe Assessments\PipeAssessment\QuizAppServer\QuizAppServer\bin\Debug\QuizAppServer.pdb
+E:\Tafe Assessments\PipeAssessment\QuizAppServer\QuizAppServer\obj\Debug\QuizAppServer.csprojResolveAssemblyReference.cache
+E:\Tafe Assessments\PipeAssessment\QuizAppServer\QuizAppServer\obj\Debug\QuizAppServer.exe
+E:\Tafe Assessments\PipeAssessment\QuizAppServer\QuizAppServer\obj\Debug\QuizAppServer.pdb
+F:\Tafe Assessments\PipeAssessment\QuizAppServer\QuizAppServer\bin\Debug\QuizAppServer.exe.config
+F:\Tafe Assessments\PipeAssessment\QuizAppServer\QuizAppServer\obj\Debug\QuizAppServer.exe
+F:\Tafe Assessments\PipeAssessment\QuizAppServer\QuizAppServer\obj\Debug\QuizAppServer.pdb
+E:\Tafe Assessments\Assessment 3\PipeAssessment\QuizAppServer\QuizAppServer\bin\Debug\QuizAppServer.exe.config
+E:\Tafe Assessments\Assessment 3\PipeAssessment\QuizAppServer\QuizAppServer\obj\Debug\QuizAppServer.exe
+E:\Tafe Assessments\Assessment 3\PipeAssessment\QuizAppServer\QuizAppServer\obj\Debug\QuizAppServer.pdb
+E:\Tafe Assessments\Assessment 3\PipeAssessment\QuizAppServer\QuizAppServer\obj\Debug\QuizAppServer.csprojResolveAssemblyReference.cache
+E:\Tafe Assessments\Assessment 3\PipeAssessment\QuizAppServer\QuizAppServer\bin\Debug\QuizAppServer.exe
+E:\Tafe Assessments\Assessment 3\PipeAssessment\QuizAppServer\QuizAppServer\bin\Debug\QuizAppServer.pdb

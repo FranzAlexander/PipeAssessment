@@ -1,0 +1,17 @@
+E:\Tafe Assessments\PipeAssessment\QuizAppClient\QuizAppClient\bin\Debug\QuizAppClient.exe.config
+E:\Tafe Assessments\PipeAssessment\QuizAppClient\QuizAppClient\bin\Debug\QuizAppClient.exe
+E:\Tafe Assessments\PipeAssessment\QuizAppClient\QuizAppClient\bin\Debug\QuizAppClient.pdb
+E:\Tafe Assessments\PipeAssessment\QuizAppClient\QuizAppClient\obj\Debug\QuizAppClient.exe
+E:\Tafe Assessments\PipeAssessment\QuizAppClient\QuizAppClient\obj\Debug\QuizAppClient.pdb
+F:\Tafe Assessments\PipeAssessment\QuizAppClient\QuizAppClient\bin\Debug\QuizAppClient.exe.config
+F:\Tafe Assessments\PipeAssessment\QuizAppClient\QuizAppClient\obj\Debug\QuizAppClient.exe
+F:\Tafe Assessments\PipeAssessment\QuizAppClient\QuizAppClient\obj\Debug\QuizAppClient.pdb
+F:\Tafe Assessments\PipeAssessment\QuizAppClient\QuizAppClient\bin\Debug\QuizAppClient.exe
+F:\Tafe Assessments\PipeAssessment\QuizAppClient\QuizAppClient\bin\Debug\QuizAppClient.pdb
+F:\Tafe Assessments\PipeAssessment\QuizAppClient\QuizAppClient\obj\Debug\QuizAppClient.csprojResolveAssemblyReference.cache
+E:\Tafe Assessments\Assessment 3\PipeAssessment\QuizAppClient\QuizAppClient\bin\Debug\QuizAppClient.exe.config
+E:\Tafe Assessments\Assessment 3\PipeAssessment\QuizAppClient\QuizAppClient\obj\Debug\QuizAppClient.exe
+E:\Tafe Assessments\Assessment 3\PipeAssessment\QuizAppClient\QuizAppClient\obj\Debug\QuizAppClient.pdb
+E:\Tafe Assessments\Assessment 3\PipeAssessment\QuizAppClient\QuizAppClient\bin\Debug\QuizAppClient.exe
+E:\Tafe Assessments\Assessment 3\PipeAssessment\QuizAppClient\QuizAppClient\bin\Debug\QuizAppClient.pdb
+E:\Tafe Assessments\Assessment 3\PipeAssessment\QuizAppClient\QuizAppClient\obj\Debug\QuizAppClient.csprojResolveAssemblyReference.cache
